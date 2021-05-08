@@ -1,9 +1,10 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REgorion)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
- - Account age:  **{{ACCOUNT_AGE}} years**
+![{{age}}](https://img.shields.io/static/v1?style=for-the-badge&label=Account%20age%3A&color=555&labelColor=%23ffd33d&message={{ACCOUNT_AGE:uri}}%20years)
  - Total commits: **{{COMMITS}}**
  - Total repositories: **{{ REPOSITORIES }}**
+
 
 ### Languages usage:
 {{ LANGUAGE_TEMPLATE_START:max=4 }}
