@@ -6,5 +6,5 @@
  - Total repositories: {{ REPOSITORIES }}
 
 {{ LANGUAGE_TEMPLATE_START:max=5 }}
- - ![{{LANGUAGE_COLOR}}](https://via.placeholder.com/15/{{LANGUAGE_COLOR}}/000000?text={{ LANGUAGE_NAME }}:+{{ LANGUAGE_PERCENT }}%)
+ - ![{{LANGUAGE_COLOR}}](https://via.placeholder.com/15/{{LANGUAGE_COLOR:uri}}/000000?text={{LANGUAGE_NAME:uri}}:+{{ LANGUAGE_PERCENT }}%)
 {{ LANGUAGE_TEMPLATE_END }}
