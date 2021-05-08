@@ -6,5 +6,7 @@
  - Total repositories: {{ REPOSITORIES }}
 
 {{ LANGUAGE_TEMPLATE_START:max=5 }}
-{{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }};
+```html
+   <span color='{{ LANGUAGE_COLOR }}'>{{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%;</span>
+```
 {{ LANGUAGE_TEMPLATE_END }}
