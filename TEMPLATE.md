@@ -11,4 +11,4 @@
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&label={{LANGUAGE_NAME:uri}}&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=REgorion.visitor-badge&color=5194f0 />
+<img src="https://visitor-badge.glitch.me/badge?page_id=REgorion.visitor-badge&color=5194f0" /> <img src="https://img.shields.io/github/followers/REgorion?style=social" />
