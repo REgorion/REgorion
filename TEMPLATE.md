@@ -6,5 +6,5 @@
  - Total repositories: {{ REPOSITORIES }}
 
 {{ LANGUAGE_TEMPLATE_START:max=5 }}
-This text will be printed at most 5 times
+{{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }};
 {{ LANGUAGE_TEMPLATE_END }}
