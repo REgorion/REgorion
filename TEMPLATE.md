@@ -1,4 +1,4 @@
-# <img src="https://github.com/REgorion/REgorion/blob/main/utlogo.gif" width="50px"> Hi there 
+# <img src="https://github.com/REgorion/REgorion/blob/main/utlogo.gif" width="32px"> Hi there 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REgorion)](https://github.com/anuraghazra/github-readme-stats)-->
 <img src="https://visitor-badge.glitch.me/badge?page_id=REgorion.visitor-badge&color=5194f0" /> <img src="https://img.shields.io/github/followers/REgorion?style=social" />
 
