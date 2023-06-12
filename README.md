@@ -8,7 +8,7 @@
 
 
 ### Languages usage:
-![C#](https://img.shields.io/static/v1?style=flat&label=C%23&color=555&labelColor=%23178600&message=82.2%25)
-![ShaderLab](https://img.shields.io/static/v1?style=flat&label=ShaderLab&color=555&labelColor=%23222c37&message=8.6%25)
-![Objective-C++](https://img.shields.io/static/v1?style=flat&label=Objective-C%2B%2B&color=555&labelColor=%236866fb&message=1.7%25)
+![C#](https://img.shields.io/static/v1?style=flat&label=C%23&color=555&labelColor=%23178600&message=81.9%25)
+![ShaderLab](https://img.shields.io/static/v1?style=flat&label=ShaderLab&color=555&labelColor=%23222c37&message=8.5%25)
+![HLSL](https://img.shields.io/static/v1?style=flat&label=HLSL&color=555&labelColor=%23aace60&message=2.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat&label=Other&color=555&labelColor=%23ededed&message=7.3%25)
