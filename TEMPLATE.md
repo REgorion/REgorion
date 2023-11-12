@@ -8,6 +8,6 @@
 
 
 ### Languages usage:
-{{ LANGUAGE_TEMPLATE_START:max=6 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&label={{LANGUAGE_NAME:uri}}&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&label={{LANGUAGE_NAME:uri}}&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_PERCENT:uri}}%25)<br/>
 {{ LANGUAGE_TEMPLATE_END }}
