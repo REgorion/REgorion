@@ -13,4 +13,4 @@
 ![HTML](https://img.shields.io/static/v1?style=flat&label=HTML&color=555&labelColor=%23e34c26&message=8%25)<br/>
 ![ShaderLab](https://img.shields.io/static/v1?style=flat&label=ShaderLab&color=555&labelColor=%23222c37&message=5.9%25)<br/>
 ![Objective-C](https://img.shields.io/static/v1?style=flat&label=Objective-C&color=555&labelColor=%23438eff&message=1.6%25)<br/>
-![Other](https://img.shields.io/static/v1?style=flat&label=Other&color=555&labelColor=%23ededed&message=4%25)<br/>
+![Other](https://img.shields.io/static/v1?style=flat&label=Other&color=555&labelColor=%23ededed&message=3.9%25)<br/>
