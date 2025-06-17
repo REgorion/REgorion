@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/github/followers/REgorion?style=social" />
 
 ![age](https://img.shields.io/static/v1?style=for-the-badge&label=Account%20age%3A&color=555&labelColor=%23ffd33d&message=8%20years)<br/>
-![commits](https://img.shields.io/static/v1?style=for-the-badge&label=Сommits%3A&color=555&labelColor=%230366d6&message=1617)<br/>
+![commits](https://img.shields.io/static/v1?style=for-the-badge&label=Сommits%3A&color=555&labelColor=%230366d6&message=1618)<br/>
 ![reps](https://img.shields.io/static/v1?style=for-the-badge&label=Repos%3A&color=555&labelColor=%236a737d&message=40)<br/>
 ![stars](https://img.shields.io/static/v1?style=for-the-badge&label=Stars%3A&color=555&labelColor=%23fff5b1&message=1%20recived)<br/>
 
