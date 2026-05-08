@@ -8,9 +8,9 @@
 
 
 ### Languages usage:
-![C#](https://img.shields.io/static/v1?style=flat&label=C%23&color=555&labelColor=%23178600&message=65.1%25)<br/>
-![C](https://img.shields.io/static/v1?style=flat&label=C&color=555&labelColor=%23555555&message=11.8%25)<br/>
-![HTML](https://img.shields.io/static/v1?style=flat&label=HTML&color=555&labelColor=%23e34c26&message=9%25)<br/>
-![ShaderLab](https://img.shields.io/static/v1?style=flat&label=ShaderLab&color=555&labelColor=%23222c37&message=6.3%25)<br/>
-![Odin](https://img.shields.io/static/v1?style=flat&label=Odin&color=555&labelColor=%2360AFFE&message=1.8%25)<br/>
-![Other](https://img.shields.io/static/v1?style=flat&label=Other&color=555&labelColor=%23ededed&message=5.8%25)<br/>
+![C#](https://img.shields.io/static/v1?style=flat&label=C%23&color=555&labelColor=%23178600&message=64%25)<br/>
+![C](https://img.shields.io/static/v1?style=flat&label=C&color=555&labelColor=%23555555&message=11.6%25)<br/>
+![HTML](https://img.shields.io/static/v1?style=flat&label=HTML&color=555&labelColor=%23e34c26&message=9.2%25)<br/>
+![ShaderLab](https://img.shields.io/static/v1?style=flat&label=ShaderLab&color=555&labelColor=%23222c37&message=6.2%25)<br/>
+![JavaScript](https://img.shields.io/static/v1?style=flat&label=JavaScript&color=555&labelColor=%23f1e05a&message=2%25)<br/>
+![Other](https://img.shields.io/static/v1?style=flat&label=Other&color=555&labelColor=%23ededed&message=6.7%25)<br/>
